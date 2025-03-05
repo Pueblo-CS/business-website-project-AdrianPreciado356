@@ -6,3 +6,26 @@ body {
     background-size: cover;
 
 }
+
+#header{
+    background-color:#34344a;
+    color: white;
+    height: 60px;
+}
+
+.nav > a{
+    color: white;
+
+}
+
+#hero{
+    font-size: 22px
+    color: white;
+}
+
+#hero> h1{\
+font-size: 88px;
+}
+#cta{
+    
+}
